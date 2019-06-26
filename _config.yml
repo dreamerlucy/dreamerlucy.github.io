@@ -15,7 +15,6 @@ plainwhite:
   name: Panchen
   tagline: Student. Designer
   date_format: "%b %-d, %Y"
-  disqus_shortname: games
   sitemap: true # set to true to generate sitemap.xml content
 
   # generate social links in footer
