@@ -1,10 +1,16 @@
 ---
 layout: post
-title:  "Hello World!"
+title:  "网络空间可视化"
 date:   2019-06-26 19:33:33
 categories: Javascript NodeJS
 ---
-我就是来试试网页行不行，啊哈哈哈哈哈哈哈哈~~~
+这里就简单记录一下查找的一些有关网络空间可视化的研究思路和成果。
+
+### 赛博空间
+我们可以把网络空间的可视化类比作星系探索类的可视化
+
+
+
 
 ```C++
 #include <stdio.h>
